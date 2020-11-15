@@ -1,9 +1,13 @@
 [![Build Status](https://travis-ci.com/github/Youneselb/ca3-backend)](https://travis-ci.com/github/Youneselb/ca3-backend)
-LIVERY*
 
+
+Se readme i template projektet, for hvordan projektet skal sættes op. 
+ 
 Link til Template frontend: https://github.com/Youneselb/CA3group-frontend Link til Template backend: https://github.com/Youneselb/ca3group-backend
 
 Link til deployed frontend: http://younesclubca3.surge.sh/ Link til deployed backend: https://younes.club/ca3/ 
+
+Link til travis: https://travis-ci.com/github/Youneselb/ca3-backend 
 
 Login informationer til frontend:
 
